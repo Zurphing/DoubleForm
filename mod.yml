@@ -10,7 +10,7 @@ assets:
   method: copy
   source:
   - name: obj\W_EX010_BTLF_L.mset
-- name: obj\\W_EX010_BTLF_R.mset
+- name: obj\W_EX010_BTLF_R.mset
   method: copy
   source:
   - name: obj\W_EX010_BTLF_R.mset
